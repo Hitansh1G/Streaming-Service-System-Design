@@ -5,10 +5,13 @@ public class Constants {
     public static final String DATE_FORMAT = "dd-MM-yyyy";
 
     // Indices
-    public static final int THREE = 3;
-    public static final int TWO = 2;
-    public static final int ONE = 1;
     public static final int ZERO = 0;
+    public static final int ONE = 1;
+    public static final int TWO = 2;
+    public static final int THREE = 3;
+
+
+
 
     // Music Subscription Constants
     public static final int MUSIC_SUBSCRIPTION_FREE_PLAN_PRICE = 0;
